@@ -1,3 +1,3 @@
+library(ggplot2)
 a <- rnorm(1000)
-plot(a)
-
+qplot(a,main='Lalo')
